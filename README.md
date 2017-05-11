@@ -8,5 +8,5 @@ el codigo se encuentra en el notebook de jupyter
 ### Instalacion
 
 ``` sh
-sudo pip install pybarcode
+$ sudo pip install pybarcode
 ```
